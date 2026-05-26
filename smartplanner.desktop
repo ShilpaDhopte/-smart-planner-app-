@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=Smart Planner
+Exec=qmlscene qml/Main.qml
+Type=Application
