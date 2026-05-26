@@ -1,0 +1,13 @@
+{
+    "name": "smartplanner.apek",
+    "description": "Smart Planner App",
+    "architecture": "all",
+    "title": "Smart Planner",
+    "hooks": {
+        "smartplanner": {
+            "apparmor": "smartplanner.apparmor",
+            "desktop": "smartplanner.desktop"
+        }
+    },
+    "version": "0.1"
+}
