@@ -75,7 +75,7 @@ smart-planner-app/
 ## Clone Repository
 
 ```bash id="rd2"
-git clone https://github.com/apeksha-code-maker/smart-planner-app.git
+git clone https://github.com/ShilpaDhopte/smart-planner-app.git
 ```
 
 ---
